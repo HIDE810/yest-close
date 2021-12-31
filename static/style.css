@@ -1,0 +1,9 @@
+body {
+    background: whitesmoke;
+    text-align: center;
+}
+
+h1 a {
+    color: black;
+    text-decoration: none;
+}
